@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pubudu Janith</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **front-end and back-end technologies**
 
 - 💬 Ask me about **everything related to application development**
 
 - 📫 Reach me via **pubudujanith123@gmail.com**
-
-- 📄 Know about my experiences from **[here](Resume)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
