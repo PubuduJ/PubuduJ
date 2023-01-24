@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pubudu Janith</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pubuduj&label=Profile%20views&color=0e75b6&style=flat" alt="pubuduj" /> </p>
 
-- 🌱 I’m currently learning **technologies related to front-end and back-end**
+- 🎓 I'm an `engineering graduate` from University of Moratuwa.
 
-- 💬 Ask me about **everything related to application development**
+- 🏫 I studied at Royal College.
 
-- 📫 Reach me via **pubudujanith123@gmail.com**
+- 🌱 I’m currently learning `front-end and back-end technologies`
+
+- 📚 Always looking forward to `explore and learn more`.
+
+- 📫 Reach me via `pubudujanith123@gmail.com`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
