@@ -5,7 +5,7 @@
 
 - 🏫 I studied at **Royal College.**
 
-- 🌱 I’m currently learning **front-end and back-end technologies**
+- 🌱 I’m currently learning **front-end and back-end technologies.**
 
 - 📚 Always looking forward to **explore and learn more.**
 
