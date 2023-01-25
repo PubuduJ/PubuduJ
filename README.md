@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pubudu Janith</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pubuduj&label=Profile%20views&color=0e75b6&style=flat" alt="pubuduj" /> </p>
 
 - 🎓 I'm an engineering graduate from **University of Moratuwa.**
 
