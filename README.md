@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pubudu Janith</h1>
 
+Hi! I'm Pubudu Janith, an Engineering graduate from the University of Moratuwa. I'm driven, focused, and thrive as a team player. 
+My strengths lie in effective communication and a solid grasp of engineering principles. 
+I'm passionate about learning new technologies and gaining more experience to broaden my knowledge in the field.
+
 - 🌱 I’m currently learning **Computer Science and Software Engineering.**
 
 - 📚 Always looking forward to **explore and learn more.**
