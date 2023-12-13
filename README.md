@@ -2,7 +2,7 @@
 
 Hi! I'm Pubudu Janith, an Engineering graduate from the University of Moratuwa. I'm driven, focused, and thrive as a team player. I'm passionate about learning new technologies and gaining more experience to broaden my knowledge in the it field.
 
-- 🌱 I’m currently learning **Computer Science and Software Engineering.**
+- 💬 Ask me about **Java | JavaScript | TypeScript | Spring Boot | J2EE | React | Node**
 
 - 📚 Always looking forward to **explore and learn more.**
 
