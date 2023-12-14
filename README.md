@@ -19,7 +19,7 @@ Hi! I'm Pubudu Janith, an Engineering graduate from the University of Moratuwa. 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pubuduj&show_icons=true&locale=en&layout=compact" alt="pubuduj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pubuduj&show_icons=true&locale=en" alt="pubuduj" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pubuduj&show_icons=true&locale=en" alt="pubuduj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduj&" alt="pubuduj" /></p>
 
