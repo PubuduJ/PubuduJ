@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pubudu Janith</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pubuduj&label=Profile%20views&color=0e75b6&style=flat" alt="pubuduj" /> </p>
-
 Hi! I'm Pubudu Janith, an Engineering graduate from the University of Moratuwa. I'm driven, focused, and thrive as a team player. I'm passionate about learning new technologies and gaining more experience to broaden my knowledge in the it field.
 
 - 💬 Ask me about **Java | JavaScript | Spring | J2EE | React | Node**
