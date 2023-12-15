@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pubudu Janith</h1>
 
-I'm an engineering graduate from the University of Moratuwa. I'm driven, focused, and thrive as a team player. I'm passionate about learning new technologies and gaining more experience to broaden my knowledge in the IT field.
+I graduated from the University of Moratuwa with an engineering degree and possess a driven, focused nature, thriving in teamwork. I'm passionate about learning new technologies in the IT field to broaden my knowledge and experience.
 
 - 💬 Ask me about **Java | JavaScript | Spring | J2EE | React | Node**
 
