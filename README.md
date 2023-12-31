@@ -2,7 +2,7 @@
 
 I'm an engineering graduate from University of Moratuwa and a highly motivated, focused and innovative team player. I'm passionate about learning new technologies in the IT field to broaden my knowledge and experience.
 
-- 💬 Ask me about **Java | JavaScript | Spring | J2EE | React | Node**
+- 💬 Ask me about **Java, JavaScript, Spring, J2EE, React and Node.**
 
 - 📚 Always looking forward to **explore and learn more.**
 
